@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(127, 157, 110, 0.578);
+}
+
+#center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 200px;
+    width: 400px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.heading{
+    justify-content: center;
+    text-align: center;
+}
