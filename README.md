@@ -19,7 +19,7 @@ GSAP (GreenSock Animation Platform): Animation library used for smooth color tra
 How It Works
 The JavaScript code calculates the mouse position within the element and maps it to RGB color values. The GSAP library is used for smooth color transitions. The element's background color changes to red on the left half and blue on the right half as the mouse moves horizontally.
 
-##Project2
+## Project2
 Calculator 
 This is a simple calculator which performs certain operations by taking input from the user into a prompt and displays the result in the form of an alert!
 
